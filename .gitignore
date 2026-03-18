@@ -1,7 +1,7 @@
-hedwi/redis/data/dump.rdb
-hedwi/minio/data/
-hedwi/mydb/data/
-hedwi/crdb/data/
+bind/redis/data/dump.rdb
+bind/minio/data/
+bind/mydb/data/
+bind/crdb/data/
 *.rdb
 .env
 inbox/certs/cert.crt
