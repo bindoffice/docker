@@ -2,10 +2,10 @@
 
 # 文档 Documentation
 
-zh-hans: [办公套件文档 中文版](https://bindoffice.com/document/mail-suite/zh-hans/) en-us: [Work suite documentation](https://bindoffice.com/document/mail-suite/en-us/)
+zh-hans: [办公套件文档 中文版](https://bindoffice.github.io/documentation/office/zh-hans/) en-us: [Work suite documentation](https://bindoffice.github.io/documentation/office/en-us/)
 
 
-zh-hans: [视频会议文档中文版](https://bindoffice.com/document/meet/zh-hans/)   en-us: [Meet documentation](https://bindoffice.com/document/meet/en-us/)
+zh-hans: [视频会议文档中文版](https://bindoffice.github.io/documentation/meet/zh-hans/)   en-us: [Meet documentation](https://bindoffice.github.io/documentation/meet/zh-hans/)
 
 
 
